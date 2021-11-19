@@ -146,6 +146,8 @@
         <spring-cloud-alibaba.version>2.2.3.RELEASE</spring-cloud-alibaba.version>
         <netflix-ribbon.version>2.2.9.RELEASE</netflix-ribbon.version>
         <dockerfile-maven-plugin.version>1.4.6</dockerfile-maven-plugin.version>
+       <sonar.organization>lilsoul3</sonar.organization>
+       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
 
     <dependencyManagement>
